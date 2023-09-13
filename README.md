@@ -4,7 +4,7 @@
 
 仿豆瓣主页静态页面: static-pages-douban
 
-[notes.tangjiayan.cn/practices/static-pages-douban/](https://notes.tangjiayan.cn/practices/static-pages-douban/)
+[notes.tangjiayan.cn/practices/static-page-douban/](https://notes.tangjiayan.cn/practices/static-page-douban/)
 
 query-display: 将 url 中的 query 字段显示在网页中
 
