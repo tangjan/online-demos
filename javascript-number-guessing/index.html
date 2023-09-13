@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+
+    <title>猜数字</title>
+
+    <style>
+      html {
+        font-family: sans-serif;
+      }
+
+      body {
+        width: 50%;
+        max-width: 800px;
+        min-width: 480px;
+        margin: 0 auto;
+      }
+      
+      .form input[type="number"] {
+        width: 200px;
+      }
+
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>来猜数字吧！</h1>
+
+    <p>咱刚刚随机生成了一个 1 ~ 100 之间的数字, 看看你能不能在 10 次以内猜出来。<br>
+       会提示你猜得大了还是小了。</p>
+
+    <div class="form">
+      <label for="guessField">猜猜看: </label>
+      <input type="number" min="1" max="100" required id="guessField" class="guessField">
+      <input type="submit" value="提交" class="guessSubmit">
+    </div>
+
+    <div class="resultParas">
+      <p class="guesses"></p>
+      <p class="lastResult"></p>
+      <p class="lowOrHi"></p>
+    </div>
+    
+    <div>
+      <button class="cheat">作弊 !</button>
+    </div>
+
+    <script src="./script.js" defer></script>
+
+  </body>
+</html>
