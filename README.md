@@ -1,6 +1,6 @@
 # practices
 
-本仓库是一些练手的小项目。
+本仓库存放一些可在线查看的练手小项目。
 
 仿豆瓣主页静态页面: static-pages-douban
 
