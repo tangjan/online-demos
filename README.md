@@ -1,15 +1,25 @@
-# practices
+一些可网页在线查看的练手小项目。
 
-本仓库存放一些可在线查看的练手小项目。
+- javascript-number-guessing：
 
-仿豆瓣主页静态页面: static-pages-douban
+  JavaScript 猜数字小游戏
 
-[notes.tangjiayan.cn/Online-Displayable-Practices/static-page-douban/](https://notes.tangjiayan.cn/Online-Displayable-Practices/static-page-douban/)
+  [在线查看](https://notes.tangjiayan.cn/Online-Displayable-Practices/javascript-number-guessing/)
 
-query-display: 将 url 中的 query 字段显示在网页中
+  [笔记](https://github.com/love2d/love?tab=readme-ov-file)
 
-[notes.tangjiayan.cn/Online-Displayable-Practices/query-display/](https://notes.tangjiayan.cn/Online-Displayable-Practices/query-display/)
+- query-display
 
-javascript-number-guessing: JavaScript 猜数字小游戏
+  将 url 中的 query 字段显示在网页中
 
-[notes.tangjiayan.cn/Online-Displayable-Practices/javascript-number-guessing/](https://notes.tangjiayan.cn/Online-Displayable-Practices/javascript-number-guessing/)
+  [在线查看](https://notes.tangjiayan.cn/Online-Displayable-Practices/query-display/)
+
+  [笔记](https://notes.tangjiayan.cn/web-build/js/query-display.html)
+
+- static-pages-douban
+
+  仿豆瓣主页静态页面
+  
+  [在线查看](https://notes.tangjiayan.cn/Online-Displayable-Practices/static-page-douban/)
+
+  [笔记](https://notes.tangjiayan.cn/web-build/fake-douban.html)
