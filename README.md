@@ -1,6 +1,6 @@
 一些可网页在线查看的练手小项目。
 
-- javascript-number-guessing：
+- javascript-number-guessing
 
   JavaScript 猜数字小游戏
 
