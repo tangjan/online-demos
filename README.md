@@ -6,7 +6,7 @@
 
   [在线查看](https://notes.tangjiayan.cn/Online-Displayable-Practices/javascript-number-guessing/)
 
-  [笔记](https://github.com/love2d/love?tab=readme-ov-file)
+  [笔记]([https://github.com/love2d/love?tab=readme-ov-file](https://notes.tangjiayan.cn/web-build/js/js-number-guessing.html))
 
 - query-display
 
